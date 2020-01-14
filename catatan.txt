@@ -1,0 +1,10 @@
+1. Registrasi
+2. Admisi (No Antrian)
+3. Tindakan Dokter
+4. resep Obat
+5. Lab
+6. Billing
+ (Pembagian jasa dokter misal 200 / Dokter)
+ (penagihan Assurance)
+7. pembayaran pasien
+8. Aktifity Masuk ke medical record ke pasien
